@@ -1,0 +1,29 @@
+{
+  "title": "Mumbler Initiative",
+  "author": {
+    "name": "Xaver M. Kienzerle",
+    "email": "xk@mumbler.eu",
+    "url": "https://mumbler.eu"
+  },
+  "name": "@mumbler/mumbler",
+  "version": "1.0.0",
+  "description": "Idea, basic concept, technical principal and philosophy of the Mumbler Initiative",
+  "homepage": "https://github.com/Mumbler/Mumbler",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mumbler/Mumbler.git"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "mumbler",
+    "mumbler-api",
+    "initiative",
+    "briefgeheimnis",
+    "privacy",
+    "correspondence",
+    "crypto",
+    "subtle",
+    "webcrypto",
+    "angularjs"
+  ]
+}
