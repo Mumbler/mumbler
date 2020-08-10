@@ -48,7 +48,6 @@ No third party must be allowed to read, analyze, profile, profit of (etc...) the
 Therefore mumbler ensures that all the relaying servers and networks **must not be able to decipher the information 
 transferred under any circumstances and at any given time or state**. 
 
-
 ## Philosophy
 
 The mumbler Initiative follows three simple but strict rules:
@@ -73,7 +72,7 @@ Every communication needs to be transported via HTTPS and authenticated via TOTP
 Every mumbler has its own TOTP key.
 
 This is just the tip of the iceberg :-). => For further technical details and implementation go to 
-[https://github.com/mumbler/ngx-mumbler-api](https://github.com/mumbler/ngx-mumbler-api
+[https://github.com/mumbler/ngx-mumbler-api](https://github.com/mumbler/ngx-mumbler-api)
 
 ## About
 
@@ -89,14 +88,6 @@ Of course **operating the infrastructure is a big issue** as well.
 It would be great if you could support us by donating a couple of euros:
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EZ2DJPABLJS6J)
-
-Although the project has its fully implemented reference API 
-(see [https://github.com/mumbler/mumblerAPI](https://github.com/mumbler/mumblerAPI)) 
-and a fully operational (productive) infrastructure (see [Infrastructure](#infrastructure) for details) 
-it still lacks a good UI-Implementation.
-
-We've developed a test suit but nothing fancy in the field of UI-design. 
-It would be great if you could support use in that area (as well).
 
 **Thank you very much and we'll hope you’re as excited as we are on the idea of bringing back the “Briefgeheimnis” 
 to the digital age.**
