@@ -5,7 +5,7 @@ _______
 
 
 
-# mumbler Initiative
+# Mumbler Initiative
 
 Open, secure, simple, authorised-only & web-based communication stack for the web
 
